@@ -9,3 +9,85 @@ body {
   font-size: 16px;
   margin: 0;
 }
+
+.background {
+  height: 250px;
+  background: #06365f;
+}
+
+.contain-all {
+  margin-top: -150px;
+  margin-left: 10%;
+  margin-right: 10%;
+  position: relative;
+}
+
+.phone-img {
+  float:left;
+  width: 30%;
+}
+
+.rightcontain {
+  float:right;
+  width: 500px;
+}
+
+.instagramlogo {
+  float:left;
+  display: inline-block;
+}
+
+.login-photobutton {
+  float: right;
+  display: inline-block;
+  margin-right: 10%;
+  margin-top: 3%;
+}
+
+.button {
+  background-color: #06365f;
+  padding:0.5em;
+  margin: 1em;
+  border: 1px solid #06365f;
+}
+
+#login {
+  display: inline-block;
+  color: white;
+  font-size: 18px;
+}
+
+.frame {
+  clear: both;
+  display: inline;
+
+}
+
+.text {
+  margin-top: -250px;
+  margin-left: 50px;
+  width: 400px;
+}
+
+.downloadgetiton {
+  margin-left: 50px;
+}
+
+footer {
+  clear: both;
+  bottom: 10px:
+  left: 10%;
+  margin-left:10%;
+}
+
+.footlinks{
+  text-decoration: none;
+  color:#1c5380;
+  margin-left: 2%;
+  margin-right: 2%;
+
+}
+
+#copyright{
+  display: inline-block;
+}
